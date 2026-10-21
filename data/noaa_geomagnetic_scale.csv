@@ -1,0 +1,6 @@
+level,label,kp_display,sort_order,source_owner,source_url,checked_date
+G1,Minor,5,1,NOAA / NWS Space Weather Prediction Center,https://www.spaceweather.gov/noaa-scales-explanation,2026-10-21
+G2,Moderate,6,2,NOAA / NWS Space Weather Prediction Center,https://www.spaceweather.gov/noaa-scales-explanation,2026-10-21
+G3,Strong,7,3,NOAA / NWS Space Weather Prediction Center,https://www.spaceweather.gov/noaa-scales-explanation,2026-10-21
+G4,Severe,8 or 9−,4,NOAA / NWS Space Weather Prediction Center,https://www.spaceweather.gov/noaa-scales-explanation,2026-10-21
+G5,Extreme,9,5,NOAA / NWS Space Weather Prediction Center,https://www.spaceweather.gov/noaa-scales-explanation,2026-10-21

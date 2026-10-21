@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">NOAA geomagnetic storm scale: Kp is not a sighting probability</title>
+<desc id="desc">G1 Minor Kp 5; G2 Moderate 6; G3 Strong 7; G4 Severe 8 or 9 minus; G5 Extreme 9. Source NOAA SWPC. Text reference, no forecast.</desc>
+<rect width="1000" height="600" fill="#081827"/>
+<g fill="#ffffff" font-family="Arial, sans-serif">
+<text x="45" y="58" font-size="29">Geomagnetic storms: read the label, not a probability</text>
+<text x="45" y="94" font-size="18">NOAA G scale • reference thresholds, not current conditions</text>
+<text x="55" y="160" font-size="26">G1</text>
+<text x="180" y="160" font-size="26">Minor</text>
+<text x="530" y="160" font-size="26">Kp 5</text>
+<text x="55" y="225" font-size="26">G2</text>
+<text x="180" y="225" font-size="26">Moderate</text>
+<text x="530" y="225" font-size="26">Kp 6</text>
+<text x="55" y="290" font-size="26">G3</text>
+<text x="180" y="290" font-size="26">Strong</text>
+<text x="530" y="290" font-size="26">Kp 7</text>
+<text x="55" y="355" font-size="26">G4</text>
+<text x="180" y="355" font-size="26">Severe</text>
+<text x="530" y="355" font-size="26">Kp 8 or 9−</text>
+<text x="55" y="420" font-size="26">G5</text>
+<text x="180" y="420" font-size="26">Extreme</text>
+<text x="530" y="420" font-size="26">Kp 9</text>
+<text x="45" y="490" font-size="18">9− belongs to G4; exact 9 belongs to G5. Neither guarantees visible aurora.</text>
+<text x="45" y="525" font-size="16">Source: NOAA / NWS SWPC • spaceweather.gov/noaa-scales-explanation</text>
+<text x="45" y="552" font-size="16">Layout: PolarTourist, CC BY 4.0 • NOAA facts public domain • checked 2026-10-21</text>
+<text x="45" y="578" font-size="14">polartourist.com/blog/northern-lights-statistics-resource-2026 • no NOAA endorsement</text>
+</g></svg>

@@ -1,0 +1,47 @@
+[
+  {
+    "level": "G1",
+    "label": "Minor",
+    "kp_display": "5",
+    "sort_order": 1,
+    "source_owner": "NOAA / NWS Space Weather Prediction Center",
+    "source_url": "https://www.spaceweather.gov/noaa-scales-explanation",
+    "checked_date": "2026-10-21"
+  },
+  {
+    "level": "G2",
+    "label": "Moderate",
+    "kp_display": "6",
+    "sort_order": 2,
+    "source_owner": "NOAA / NWS Space Weather Prediction Center",
+    "source_url": "https://www.spaceweather.gov/noaa-scales-explanation",
+    "checked_date": "2026-10-21"
+  },
+  {
+    "level": "G3",
+    "label": "Strong",
+    "kp_display": "7",
+    "sort_order": 3,
+    "source_owner": "NOAA / NWS Space Weather Prediction Center",
+    "source_url": "https://www.spaceweather.gov/noaa-scales-explanation",
+    "checked_date": "2026-10-21"
+  },
+  {
+    "level": "G4",
+    "label": "Severe",
+    "kp_display": "8 or 9−",
+    "sort_order": 4,
+    "source_owner": "NOAA / NWS Space Weather Prediction Center",
+    "source_url": "https://www.spaceweather.gov/noaa-scales-explanation",
+    "checked_date": "2026-10-21"
+  },
+  {
+    "level": "G5",
+    "label": "Extreme",
+    "kp_display": "9",
+    "sort_order": 5,
+    "source_owner": "NOAA / NWS Space Weather Prediction Center",
+    "source_url": "https://www.spaceweather.gov/noaa-scales-explanation",
+    "checked_date": "2026-10-21"
+  }
+]
